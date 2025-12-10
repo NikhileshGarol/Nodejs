@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhileshGarol/Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhileshGarol/Nodejs/issues"
+  },
+  "homepage": "https://github.com/NikhileshGarol/Nodejs#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.0.1",
+    "nodemon": "^3.1.11"
+  }
+}
